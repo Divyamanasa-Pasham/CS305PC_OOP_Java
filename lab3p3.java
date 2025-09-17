@@ -9,10 +9,10 @@ class lab3p3{
 			System.out.println("Method without params");
 			}
 		public void display(int x,String y){
-			System.out.println("Method with int params:"+x+","+s");
+			System.out.println("Method with int params:"+x+","+y);
 		}
 		public void display(String y){
-			System.out.println("Method overloading3"+s);
+			System.out.println("Method overloading3"+y);
 			
 		}
 	}
