@@ -2,8 +2,8 @@ import java.util.Scanner;
 class lab3p4{
 	public static void main(String...args){
 		Scanner sc = new Scanner(System.in);
-		int a = s.nextIn();
-		String = sc.nextIn();
+		int a = sc.nextInt();
+		String b = sc.next();
 		lab3p4 l = new lab3p4();
 		lab3p4 l1 = new lab3p4(a);
 		lab3p4 l2 = new lab3p4(b);
